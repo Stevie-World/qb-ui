@@ -4,7 +4,7 @@ lua54 'yes'
 
 author 'Kakarot'
 description 'QB menu and input UI'
-version '1.2.0'
+version '1.0.0'
 
 provides {
     'qb-menu',
